@@ -1,0 +1,30 @@
+
+body{
+    background-image: linear-gradient(100deg, rgb(183, 219, 219) 37%, rgb(255, 240, 211));
+}
+.bmi-container{
+    margin-top: 40px;
+}
+h2 {
+    color:#fff;
+    text-align: center;
+}
+.height,
+.weight,
+.gender,
+.export,
+.result{
+    color:#fff;
+    margin: 10px 0;
+}
+.btn .btn-primary{
+    border-style: ridge;
+}
+
+.import,
+.export{
+   text-align: center;
+}
+#result{
+    margin-top: 10px;
+}
