@@ -6,7 +6,7 @@ body{
     margin-top: 40px;
 }
 h2 {
-    color:#fff;
+    color:black;
     text-align: center;
 }
 .height,
@@ -14,7 +14,7 @@ h2 {
 .gender,
 .export,
 .result{
-    color:#fff;
+    color:black;
     margin: 10px 0;
 }
 .btn .btn-primary{
